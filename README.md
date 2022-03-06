@@ -1,8 +1,8 @@
 # 객체지향프로그래밍(Object Oriented Programing, OOP)
 ## 온라인 강의실(Slack) 가입/참여
 
-2장
-mms://vod.ocu.ac.kr/Consortium/bcart/c/ch2-1.wmv \\
+2장 \br
+mms://vod.ocu.ac.kr/Consortium/bcart/c/ch2-1.wmv \br
 mms://vod.ocu.ac.kr/Consortium/bcart/c/ch2-2.wmv \\
 
 3장
