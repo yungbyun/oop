@@ -2,8 +2,9 @@
 ## 온라인 강의
 
 * 2장
-> mms://vod.ocu.ac.kr/Consortium/bcart/c/ch2-1.wmv <br/>
-> mms://vod.ocu.ac.kr/Consortium/bcart/c/ch2-2.wmv <br/>
+> (비주얼 스튜디오 사용법) https://youtu.be/zpkCLSe3-2s <br/>
+> (2장_1) https://youtu.be/sDPNKiHSAMc <br/>
+> (2장_2) https://youtu.be/0b7wbUk7-lE <br/>
 
 * 3장
 > mms://vod.ocu.ac.kr/Consortium/bcart/c/ch3-2.wmv <br/>
