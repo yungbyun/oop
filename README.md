@@ -1,6 +1,9 @@
 # 객체지향프로그래밍(Object Oriented Programing, OOP)
 ## 온라인 강의
 
+* 우리는 왜 대학에 가는가.
+> https://www.youtube.com/watch?v=nttlAfVQT6w&t=367s
+
 * 2장 OOP를 공부하는 이유
 > (비주얼 스튜디오 사용법) https://youtu.be/zpkCLSe3-2s <br/>
 > (2장_1) https://youtu.be/sDPNKiHSAMc <br/>
