@@ -5,6 +5,7 @@
 > https://www.youtube.com/watch?v=nttlAfVQT6w&t=367s
 
 * 2장 OOP를 공부하는 이유
+> (비주얼 스튜디오 설치) https://www.youtube.com/watch?v=F-FNih33PAE&t=30s
 > (비주얼 스튜디오 사용법) https://youtu.be/zpkCLSe3-2s <br/>
 > (2장_1) https://youtu.be/sDPNKiHSAMc <br/>
 > (2장_2) https://youtu.be/0b7wbUk7-lE <br/>
