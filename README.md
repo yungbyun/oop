@@ -64,12 +64,12 @@
 > (1장_7) https://youtu.be/iAnqPTwaH7g <br/>
 > (1장_8) https://youtu.be/CfA1NQojdq8 <br/>
 
-* 11장
-* (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/p66_72jO2l8 <br/>
-> (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/mQ9_YXd46-I <br/>
-> (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/NxJkwIo6OjY <br/>
-> (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/3fY4jayQi3Y <br/>
-> (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/DxeFsakotc0 <br/>
-> (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/fRt3dsiEAZ4 <br/>
-> (11장_1) 객체지향 프로그래밍 실전 연습과 UML 모델링, https://youtu.be/9RTShBX3k1U <br/>
+* 11장 객체지향 프로그래밍 실전 연습과 UML 모델링
+* (11장_1) https://youtu.be/p66_72jO2l8 <br/>
+> (11장_1) https://youtu.be/mQ9_YXd46-I <br/>
+> (11장_1) https://youtu.be/NxJkwIo6OjY <br/>
+> (11장_1) https://youtu.be/3fY4jayQi3Y <br/>
+> (11장_1) https://youtu.be/DxeFsakotc0 <br/>
+> (11장_1) https://youtu.be/fRt3dsiEAZ4 <br/>
+> (11장_1) https://youtu.be/9RTShBX3k1U <br/>
 
