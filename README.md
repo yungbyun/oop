@@ -3,7 +3,7 @@
 * 우리는 왜 대학에 가는가.
 > https://www.youtube.com/watch?v=nttlAfVQT6w&t=367s
 
-## 중기청 200만원 장학금 지원 및 취업지원사업 
+## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 
 > * https://github.com/JNUAca/go (현재 교과목 리스트 업데이트 중이며, 곧 확정됩니다.)
 
 ## 온라인 강의
