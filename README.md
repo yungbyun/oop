@@ -1,10 +1,11 @@
 # 객체지향프로그래밍(Object Oriented Programing, OOP)
 
+## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 (참여신청중! 선착순!)
+> * https://github.com/JNUAca/go
+> * 참여신청: https://docs.google.com/forms/d/e/1FAIpQLSfzsud_QBnRpRRvWaiA8oJ6aIJc7Zuh6rqG8Bh5AvZ0nI-M9w/viewform
+
 ## 우리는 왜 대학에 가는가.
 * https://www.youtube.com/watch?v=nttlAfVQT6w&t=367s
-
-## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 
-* https://github.com/JNUAca/go 
 
 ## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
 * https://open.kakao.com/o/gKG3e0sb
