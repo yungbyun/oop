@@ -82,6 +82,7 @@
 ## 머신러닝으로 배우는 응용 프레임워크 
 > (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
 > (붓꽃 인식) https://www.kaggle.com/ash316/ml-from-scratch-with-iris
+> 
 
 ```python
 from abc import ABC, abstractmethod
