@@ -79,3 +79,6 @@
 > (11장_1) https://youtu.be/fRt3dsiEAZ4 <br/>
 > (11장_1) https://youtu.be/9RTShBX3k1U <br/>
 
+## 머신러닝으로 배우는 응용 프레임워크 
+> (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
+> https://www.kaggle.com/ash316/ml-from-scratch-with-iris
