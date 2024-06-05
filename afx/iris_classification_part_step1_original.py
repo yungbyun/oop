@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # 1. 데이터 불러오기
-df = pd.read_csv("C:\\Users\\Yung\\Dropbox\\incomming\\출장허브##\\[50]아카데미사업 교재개발_new\\03.머신러닝 교재(작업중)####\\afx_code\\Iris.csv") 
+df = pd.read_csv("Iris.csv") 
 
 # 2. 데이터 정보 표시 
 print(df.head(5)) # 데이터 프레임에 들어있는 10개 데이터 보여줌.

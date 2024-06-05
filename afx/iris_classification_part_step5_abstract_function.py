@@ -74,7 +74,7 @@ class Base:
 
 class Derived (Base):
     def set_file(self): ###
-        return "C:\\Users\\Yung\\Dropbox\\incomming\\출장허브##\\[50]아카데미사업 교재개발_new\\03.머신러닝 교재(작업중)####\\afx_code\\male_female.csv"
+        return "male_female.csv"
 
     def set_drop(self): ###
         return ['Id']

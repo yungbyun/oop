@@ -9,7 +9,7 @@ class Base:
     df = 0
 
     def load_csv(self):
-        self.df = pd.read_csv("C:\\Users\\Yung\\Dropbox\\incomming\\출장허브##\\[50]아카데미사업 교재개발_new\\03.머신러닝 교재(작업중)####\\afx_code\\Iris.csv") 
+        self.df = pd.read_csv("Iris.csv") 
 
     def data_info(self):
         print(self.df.head(5)) # 데이터 프레임에 들어있는 10개 데이터 보여줌.
