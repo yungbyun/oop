@@ -1,9 +1,10 @@
 # 객체지향프로그래밍(Object Oriented Programing, OOP)
-
+<- 
 ## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 (참여신청중! 선착순!)
 > * https://github.com/JNUAca/go
 > * 참여신청: https://forms.gle/qnfsxRzCAfwAG4gi8
-
+>
+> 
 ## 우리는 왜 대학에 가는가.
 * https://www.youtube.com/watch?v=nttlAfVQT6w&t=367s
 
