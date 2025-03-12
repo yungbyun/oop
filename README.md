@@ -8,7 +8,7 @@
 ## 우리는 왜 대학에 가는가.
 * https://www.youtube.com/watch?v=nttlAfVQT6w&t=367s
 
-## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방2
+## 취업 및 행사정보: 카카오 오픈 단톡방(이호준님)
 * https://open.kakao.com/o/gKG3e0sb
 
 ## 온라인 강의
