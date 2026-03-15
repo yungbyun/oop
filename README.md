@@ -14,7 +14,7 @@
 ## 온라인 강의
 
 * 2장 OOP를 공부하는 이유
-> (2장_1) https://youtu.be/sDPNKiHSAMc <br/>
+> (2장_1 new) https://youtu.be/e78bsUVRav0 <br/>
 > (2장_2) https://youtu.be/0b7wbUk7-lE <br/>
 
 * 3장 추상화에서 객체지향 프로그래밍까지
