@@ -18,6 +18,8 @@
 > (2장_2 new) https://youtu.be/pOTjO3IC8TQ <br/>
 
 * 3장 추상화에서 객체지향 프로그래밍까지
+> (3장_1 new) https://youtu.be/bXOTEk1quM0 <br/>
+> (3장_2 new) https://youtu.be/GlZ1fRXvamI <br/>
 > (3장_1) https://youtu.be/iadue3RQ8Ak <br/>
 > (3장_2) https://youtu.be/y_MmWnunqy0 <br/>
 
