@@ -20,20 +20,17 @@
 * 3장 추상화에서 객체지향 프로그래밍까지
 > (3장_1 new) https://youtu.be/bXOTEk1quM0 <br/>
 > (3장_2 new) https://youtu.be/GlZ1fRXvamI <br/>
-> (3장_1) https://youtu.be/iadue3RQ8Ak <br/>
-> (3장_2) https://youtu.be/y_MmWnunqy0 <br/>
 
 * 4장 OOP에 익숙해지기 
-> (4장_1) https://youtu.be/B7fdoV0zGiI <br/>
-> (4장_2) https://youtu.be/6lOMhJ00B9o <br/>
-> (4장_3) https://youtu.be/Cak8y8_biAg <br/>
+> (4장_1 new) https://youtu.be/IYuOU62jddI <br/>
+> (4장_2 new) https://youtu.be/0EnkuhC-VhM <br/>
 
 * 5장 상속으로 코드 재사용하기
-> (5장_1) https://youtu.be/uHc7b1w1sVk <br/>
-> (5장_2) https://youtu.be/MaHqYJlMCAM <br/>
-> (5장_3) https://youtu.be/jdl7XliObFU <br/>
+> (5장_1 new) https://youtu.be/odZYqREvqd0 </br>
+> (5장_2 new) https://youtu.be/1MXl1Ao2MuE </br>
 
 * 6장 응용 프레임워크와 가상 함수의 만남
+> (6장_1 new) https://youtu.be/U34xoNjORo8 <br/>
 > (6장_1) https://youtu.be/2HZbu-kT5yc <br/>
 > (6장_2) https://youtu.be/UeQmaqZC5Cc <br/> 
 > (6장_3) https://youtu.be/0vyq1WQGJ-k <br/>
