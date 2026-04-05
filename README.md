@@ -31,12 +31,9 @@
 
 * 6장 응용 프레임워크와 가상 함수의 만남
 > (6장_1 new) https://youtu.be/U34xoNjORo8 <br/>
-> (6장_1) https://youtu.be/2HZbu-kT5yc <br/>
-> (6장_2) https://youtu.be/UeQmaqZC5Cc <br/> 
-> (6장_3) https://youtu.be/0vyq1WQGJ-k <br/>
-> (6장_4) https://youtu.be/o7UY5CuANaw <br/>
-> (6장_5) https://youtu.be/CjVQ87VHlpc <br/>
-> (6장_6) https://youtu.be/WTZGc9dmpsM <br/>
+> (6장_2 new) https://youtu.be/hmUtUgWVQkU <br/>
+> (6장_3 new) https://youtu.be/MdVcV-nQmqY <br/>
+> (6장_4 new) https://youtu.be/U34xoNjORo8 <br/>
 
 * 7장 레퍼런스와 포인터, 그리고 함수 호출 방법
 > (7장_1) https://youtu.be/dLNcdIq1_Ok <br/>
