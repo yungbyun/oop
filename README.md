@@ -33,7 +33,7 @@
 > (6장_1 new) https://youtu.be/U34xoNjORo8 <br/>
 > (6장_2 new) https://youtu.be/hmUtUgWVQkU <br/>
 > (6장_3 new) https://youtu.be/MdVcV-nQmqY <br/>
-> (6장_4 new) https://youtu.be/U34xoNjORo8 <br/>
+> (6장_4 new) https://youtu.be/RNyk7_3anSg <br/>
 
 * 7장 레퍼런스와 포인터, 그리고 함수 호출 방법
 > (7장_1) https://youtu.be/dLNcdIq1_Ok <br/>
