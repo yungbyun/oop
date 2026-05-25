@@ -36,26 +36,20 @@
 > (6장_4 new) https://youtu.be/RNyk7_3anSg <br/>
 
 * 7장 레퍼런스와 포인터, 그리고 함수 호출 방법
-> (7장_1) https://youtu.be/dLNcdIq1_Ok <br/>
-> (7장_2) https://youtu.be/HANwstfJd2M <br/>
-> (7장_3) https://youtu.be/l3y4buQPM8Y <br/>
+> [(7장_1_new)](https://youtu.be/xw0CFEnyEG4)  <br/>
+> [(7장_2_new)](https://youtu.be/5oI0H0qzb_8)  <br/>
 
 * 8장 멤버 함수 자세히 살펴보기
-> (8장_1) https://youtu.be/uYmmlP-OL5Y <br/>
-> (8장_2) https://youtu.be/cuq0C4uSXnk <br/>
-> (8장_3) https://youtu.be/tex5K4PkUrg <br/>
-> (8장_4) https://youtu.be/tU_duXcDN04 <br/>
-> (8장_5) https://youtu.be/HKagXTm_2kU <br/>
-> (8장_6) https://youtu.be/SGFIcuDMpBU <br/>
+> [(8장_1_new)](https://youtu.be/3QTeHABVlIM) <br/>
+> [(8장_2_new)](https://youtu.be/vb4wEbDbun4) <br/>
+> [(8장_3_new)](https://youtu.be/GLs-vHXgcBQ) <br/>
 
 * 9장 템플릿과 가상 함수 자세히 살펴보기
-> (9장_1) https://youtu.be/gQT1XTxd-vU <br/>
-> (9장_2) https://youtu.be/hZKtAIAOzIs <br/>
-> (9장_3) https://youtu.be/8DV1SP6JA9I <br/>
+> [(9장_1_new)](https://youtu.be/r_Oihsym75Y)<br/>
+> [(9장_2_new)](https://youtu.be/imIgnnfWS4Y) <br/>
 
 * 10장 예외처리
-> (10장_1) https://youtu.be/boX-lCOM_tk <br/>
-> (10장_2) https://youtu.be/dms33rwmQlw <br/>
+> [(10장__new)](https://youtu.be/irsURW813-Q) <br/>
 
 * 1장 몰라도 일단 짜보는 객체지향 프로그램
 > (1장_1) https://youtu.be/Uewy8P4o5Wg <br/>
